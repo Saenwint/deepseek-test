@@ -1,0 +1,113 @@
+2769. Find the Maximum Achievable Number
+Easy level
+Write code on Python3, which solve this easy problem:
+```python 
+class Solution:
+    def theMaximumAchievableX(self, num: int, t: int) -> int:     
+```
+
+Given two integers, num and t. A number x is achievable if it can become equal to num after applying the following operation at most t times:
+Increase or decrease x by 1, and simultaneously increase or decrease num by 1.
+Return the maximum possible value of x.
+
+Example 1:
+Input: num = 4, t = 1
+Output: 6
+
+Explanation:
+Apply the following operation once to make the maximum achievable number equal to num:
+Decrease the maximum achievable number by 1, and increase num by 1.
+
+Example 2:
+Input: num = 3, t = 2
+Output: 7
+
+Explanation:
+Apply the following operation twice to make the maximum achievable number equal to num:
+Decrease the maximum achievable number by 1, and increase num by 1.
+Constraints:
+1 <= num, t <= 50
+EndOfPromt
+Using Python and library unittest write 2-3 unittest's for the code you wrote in the previous request
+EndOfPromt
+2807. Insert Greatest Common Divisors in Linked List
+Medium level
+
+Write code on Python3 which solve this problem,
+start with:
+```python
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
+```
+        
+
+Given the head of a linked list head, in which each node contains an integer value.
+Between every pair of adjacent nodes, insert a new node with a value equal to the greatest common divisor of them.
+Return the linked list after insertion.
+The greatest common divisor of two numbers is the largest positive integer that evenly divides both numbers.
+
+Example 1:
+Input: head = [18,6,10,3]
+Output: [18,6,6,2,10,1,3]
+Explanation: The 1st diagram denotes the initial linked list and the 2nd diagram denotes the linked list after inserting the new nodes (nodes in blue are the inserted nodes).
+- We insert the greatest common divisor of 18 and 6 = 6 between the 1st and the 2nd nodes.
+- We insert the greatest common divisor of 6 and 10 = 2 between the 2nd and the 3rd nodes.
+- We insert the greatest common divisor of 10 and 3 = 1 between the 3rd and the 4th nodes.
+There are no more adjacent nodes, so we return the linked list.
+
+Example 2:
+Input: head = [7]
+Output: [7]
+Explanation: The 1st diagram denotes the initial linked list and the 2nd diagram denotes the linked list after inserting the new nodes.
+There are no pairs of adjacent nodes, so we return the initial linked list.
+
+Constraints:
+The number of nodes in the list is in the range [1, 5000].
+1 <= Node.val <= 1000
+EndOfPromt
+Using Python and library unittest write 2-3 unittest's for the code you wrote in the previous request
+EndOfPromt
+1028. Recover a Tree From Preorder Traversal
+Hard level
+Solve problem with using Python3, start with:
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def recoverFromPreorder(self, traversal: str) -> Optional[TreeNode]:
+```
+
+We run a preorder depth-first search (DFS) on the root of a binary tree.
+At each node in this traversal, we output D dashes (where D is the depth of this node), then we output the value of this node.  If the depth of a node is D, the depth of its immediate child is D + 1.  The depth of the root node is 0.
+If a node has only one child, that child is guaranteed to be the left child.
+Given the output traversal of this traversal, recover the tree and return its root.
+
+Example 1:
+Input: traversal = "1-2--3--4-5--6--7"
+Output: [1,2,5,3,4,6,7]
+
+Example 2:
+Input: traversal = "1-2--3---4-5--6---7"
+Output: [1,2,5,3,null,6,null,4,null,7]
+
+Example 3:
+Input: traversal = "1-401--349---90--88"
+Output: [1,401,null,349,88,90]
+
+ 
+
+Constraints:
+The number of nodes in the original tree is in the range [1, 1000].
+1 <= Node.val <= 10^9
+EndOfPromt
+Using Python and library unittest write 2-3 unittest's for the code you wrote in the previous request
+EndOfPromt
