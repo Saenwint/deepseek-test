@@ -1,0 +1,20 @@
+Correct the spelling, punctuation, and lexical errors in the following sentences:
+
+"She dont like apples, but she loves bannanas."
+
+"The cat sat on the mat it was very sleepy."
+
+"Their going to the park, but they forgot there picnic basket."
+
+"He said, 'I cant go to the party because I have to much homework.'"
+EndOfPromt
+Write a rhyming poem for Spring. The theme should be about celebrating the end of winter and the beginning of spring. Use humor and traditional elements.
+EndOfPromt
+Write a short rhyming poem for International Women's Day (March 8). The theme should be about celebrating women, their strength, and their beauty.
+EndOfPromt
+Write a short story about the left and right mouse buttons. The story should describe their friendship, their rivalry, and how they work together to help the user.
+EndOfPromt
+Here is a short text. Please read it carefully and then retell it exactly as it is, word for word, without changing anything:
+
+"On a sunny morning, a small rabbit named Benny decided to explore the forest near his home. He hopped through the tall grass, sniffing the fresh air and listening to the birds singing. As he wandered deeper into the forest, he stumbled upon a sparkling stream. The water was so clear that Benny could see tiny fish swimming beneath the surface. Curious, he dipped his paw into the water, feeling its coolness. Suddenly, he heard a rustling sound behind him. Benny turned around and saw a friendly fox named Felix. Felix explained that he was also exploring the forest and invited Benny to join him. Together, they discovered a hidden meadow filled with colorful flowers and buzzing bees. Benny and Felix spent the rest of the day playing and sharing stories. As the sun began to set, they promised to meet again the next day. Benny returned home, feeling happy and excited about his new friend and the adventures they would have."
+EndOfPromt

@@ -696,3 +696,130 @@ prompt_eval_duration: 1.308sec
 Token/s: 22.333726879181423
 --------------------------------------------------
 
+[2025-03-11 18:28:19]
+**You:** Correct the spelling, punctuation, and lexical errors in the following sentences:
+
+"She dont like apples, but she loves bannanas."
+
+"The cat sat on the mat it was very sleepy."
+
+"Their going to the park, but they forgot there picnic basket."
+
+"He said, 'I cant go to the party because I have to much homework.'"
+**DeepSeek:** Here are the corrections to each sentence:
+
+1. **She doesn't like apples, but she loves bananas.**  
+2. **The cat sat on the mat, it was very sleepy.**  
+3. **Their going to the park, but they forgot there the picnic basket.**  
+4. **He said, 'I can't go to the party because I have to much homework.'**
+
+These sentences are now grammatically correct and make logical sense.
+
+--------------------------------------------------
+model: deepseek-r1:1.5b
+created_at: 2025-03-11T15:28:19.051242106Z
+total_duration: 14.838785456sec
+load_duration: 0.011606521sec
+prompt_eval_count: 71
+prompt_eval_duration: 0.648sec
+Token/s: 29.413839317203923
+--------------------------------------------------
+
+[2025-03-11 18:28:46]
+**You:** Write a rhyming poem for Spring. The theme should be about celebrating the end of winter and the beginning of spring. Use humor and traditional elements.
+**DeepSeek:** **Spring's New Dawn**
+
+In the sky above, we see the snowflakes dance  
+Freezing like ice, unfreezing like rain.  
+Trees from the ground grow tall, roots deep.  
+The earth breathes with life as it begins to spring.  
+
+The ice glides in a river, its flow steady and swift.  
+Frogs emerge from an ice-covered pond, their songs clear.  
+Birds find their feet on branches so bright,  
+In sunlit land where snow once was gone.
+
+Flowers bloom full of colors, they are bold,  
+A dance of spring, their light as dawn fades.  
+With each passing day, we see this world grow,  
+From frozen to free, the new beginning is here.
+
+--------------------------------------------------
+model: deepseek-r1:1.5b
+created_at: 2025-03-11T15:28:46.690025788Z
+total_duration: 27.635005523sec
+load_duration: 0.014337469sec
+prompt_eval_count: 34
+prompt_eval_duration: 0.767sec
+Token/s: 28.63846268434381
+--------------------------------------------------
+
+[2025-03-11 18:29:09]
+**You:** Write a short rhyming poem for International Women's Day (March 8). The theme should be about celebrating women, their strength, and their beauty.
+**DeepSeek:** The sun sleeps at intervals,  
+Where strength is found.  
+Beauty in nature, hers so bright,  
+A voice that's heard everywhere.  
+
+Her strength is strong,  
+In every form she runs.  
+In her beauty, yes,  
+That's true for all we see.  
+
+Unity in unity,  
+Together celebrate the night.  
+As one, as one,  
+Of true beauty and strength.
+
+--------------------------------------------------
+model: deepseek-r1:1.5b
+created_at: 2025-03-11T15:29:09.54171869Z
+total_duration: 22.847432606sec
+load_duration: 0.019217044sec
+prompt_eval_count: 35
+prompt_eval_duration: 0.477sec
+Token/s: 28.098434004474274
+--------------------------------------------------
+
+[2025-03-11 18:29:44]
+**You:** Write a short story about the left and right mouse buttons. The story should describe their friendship, their rivalry, and how they work together to help the user.
+**DeepSeek:** **Title: The Left-Right Mouse Friends**
+
+In a world where mice's mousekeeping skills were often deemed top-notch, two friends named Paws and Fingers arose out of nowhere—each with their own unique charm and quirks. These friends, though opposites in many ways, bonded over their love for the mouse and its two wonders: the left button (Paws) and the right button (Fingers).
+
+Paws was known for his cautious nature; he'd always be the first to take a deep breath before using the left button. Fingers, on the other hand, was quick-talking and energy-shedding, her fingers always eager to make progress. Their friendship was like an ancient tale of brotherhood and sometimes betrayal.
+
+One sunny day, while Paws was meticulously locking mouse pads in place with his wiggly paws, Fingers accidentally knocked over a mouse pad filled with treats. Her quick fingers scrambled the contents, leaving a trail of crumbs. Paws grabbed it, but instead of helping her clean up, he tried to make an escape—using his sharp teeth to outdo himself.
+
+Fingers, sensing the danger, quickly joined him, working in unison to secure the place safely. Together, their bond grew stronger as they realized that balance was key. Their friendship became a model for how opposites could complement each other in unexpected ways.
+
+However, over time, their close interaction led to issues. Paws's rigidity caused Fingers to neglect her responsibilities, and vice versa. One day, when the mouse pad had been moved by another friend, Paws couldn't stop Fingers from knocking it off with a flick of his paws, leaving behind a mess.
+
+Despite these challenges, their friendship evolved into a partnership. They learned that respecting each other's strengths was the key to overcoming obstacles. Their story became one of mutual respect and teamwork—a testament to the power of understanding and cooperation in creating a successful mouse community.
+
+--------------------------------------------------
+model: deepseek-r1:1.5b
+created_at: 2025-03-11T15:29:44.151791011Z
+total_duration: 34.606154585sec
+load_duration: 0.015454805sec
+prompt_eval_count: 35
+prompt_eval_duration: 0.644sec
+Token/s: 27.898070408012963
+--------------------------------------------------
+
+[2025-03-11 18:30:11]
+**You:** Here is a short text. Please read it carefully and then retell it exactly as it is, word for word, without changing anything:
+
+"On a sunny morning, a small rabbit named Benny decided to explore the forest near his home. He hopped through the tall grass, sniffing the fresh air and listening to the birds singing. As he wandered deeper into the forest, he stumbled upon a sparkling stream. The water was so clear that Benny could see tiny fish swimming beneath the surface. Curious, he dipped his paw into the water, feeling its coolness. Suddenly, he heard a rustling sound behind him. Benny turned around and saw a friendly fox named Felix. Felix explained that he was also exploring the forest and invited Benny to join him. Together, they discovered a hidden meadow filled with colorful flowers and buzzing bees. Benny and Felix spent the rest of the day playing and sharing stories. As the sun began to set, they promised to meet again the next day. Benny returned home, feeling happy and excited about his new friend and the adventures they would have."
+**DeepSeek:** On a sunny morning, a small rabbit named Benny decided to explore the forest near his home. He hopped through the grass, sniffing fresh air and listening to birds singing. As he wandered deeper into the forest, he stumbled upon a sparkling stream with tiny fish beneath the surface. Curious, Benny dipped his paw in, feeling the coolness of the water. Suddenly, he heard a rustling sound behind him, which led him to Felix, a friendly fox who invited him to join. Together, they discovered a hidden meadow filled with colorful flowers and buzzing bees. Benny and Felix spent the rest of the day playing and sharing stories. As the sun began to set, they promised to meet again the next day.
+
+--------------------------------------------------
+model: deepseek-r1:1.5b
+created_at: 2025-03-11T15:30:11.937250442Z
+total_duration: 27.780252859sec
+load_duration: 0.01681113sec
+prompt_eval_count: 220
+prompt_eval_duration: 2.501sec
+Token/s: 23.47492181623847
+--------------------------------------------------
+
